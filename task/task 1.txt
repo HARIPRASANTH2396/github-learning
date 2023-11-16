@@ -1,0 +1,44 @@
+HTTP1.1
+      *It stands for Hypertext Transfer Protocol version 1.1.
+      * It is a protocol used for transmitting hypertext over the internet.
+      *It is an application layer protocol that forms the basis for any data exchange on the Web.
+      *multiple requests and responses can be sent over a single TCP connection.
+      *HTTP 1.1 maintains the request/response model.
+      *A client sends a request to a server, and the server responds with the requested information.
+      *Each message consists of a header and an optional body.
+      * HTTP 1.1 introduces more robust caching mechanisms to reduce the need for retransmitting the same data multiple times.
+      *They include details such as the type of content being sent, the length of the content, the server type, and more.
+      *This allows multiple domains to be hosted on the same server, and the server uses the Host header to determine which domain is being requested.
+      *This can be useful for resuming interrupted downloads or downloading large files in smaller pieces.
+
+
+
+HTTP2
+      *It is the second major version of the Hypertext Transfer Protocol (HTTP).
+      *It was developed by the Internet Engineering Task Force (IETF) as an improvement over HTTP/1.1 to address its limitations and provide a more        efficient and faster web experience.
+      *HTTP/2 is a binary protocol, whereas its predecessor, HTTP/1.1, is a text-based protocol.
+      *The binary format is more efficient in terms of parsing and transmission.
+      *In HTTP/1.1, each request/response connection is handled sequentially, leading to potential bottlenecks.
+      *HTTP/2 uses header compression to reduce overhead.
+      *Header fields are compressed using a method called HPACK, which significantly reduces the amount of data transmitted and speeds up communication.
+      *This can reduce latency by preloading necessary resources.
+      *This is a departure from the one-request-at-a-time model of HTTP/1.1, which required multiple connections for parallelism.
+      *HTTP/2 is designed to be backward compatible with HTTP/1.1.
+
+
+
+Objects and its internal representation in Javascript
+*In JavaScript, objects are a fundamental data type and are used to represent and store data in the form of key-value pairs.
+*Objects can have properties (data members) and methods (functions).
+*Properties and methods are accessed using dot notation or square bracket notation.
+*Internally, the JavaScript engine uses various mechanisms to represent objects.
+*One common approach is the use of a data structure known as a hash table or dictionary to store key-value pairs. This allows for efficient lookup and retrieval of properties.
+*JavaScript is a prototype-based language, which means that objects can inherit properties and methods from other objects.
+*Each object has an internal link to another object called its prototype. 
+*If a property or method is not found on the object itself, the JavaScript engine looks for it in the object's prototype chain.
+*Each property of an object has associated attributes known as property descriptors.
+*which define characteristics like whether the property is writable, enumerable, or configurable. 
+*The Object.getOwnPropertyDescriptor() method can be used to retrieve these descriptors.
+
+
+
