@@ -1,0 +1,24 @@
+DIFFRENCE BETWEEN DOCUMENT AND 
+
+DOCUMENT;
+        *A document is a recorded information or representation, usually in the form of written or printed material.
+        *Documents can take various forms, including text documents, images, audio recordings, videos, spreadsheets, presentations, and more.
+        *Documents serve different purposes, such as conveying information, recording data, providing evidence, communicating ideas, and facilitating          collaboration.
+        *Documents can exist in both physical and digital formats. Physical documents are tangible, like printed papers, while digital documents are          electronic files stored on computers or other devices.
+        *Creating a document involves the generation and organization of content, often using software tools like word processors, graphic design software,          or spreadsheet programs.
+        *Efficient document management includes tasks like organizing, storing, retrieving, and sharing documents. This is often done through file systems,           document management systems, or cloud-based storage solutions.
+        *Documents can be edited to update information, correct errors, or improve the overall content. Collaboration tools enable multiple people to edit a          document simultaneously.
+        *In collaborative environments, managing different versions of a document is crucial. Version control systems help track changes, prevent conflicts,          and ensure that the most recent version is accessible.
+        *Depending on the content, documents may require various levels of security. Encryption, access controls, and password protection are common                  methods to secure sensitive information.
+        *Certain documents have legal significance, such as contracts, agreements, and official records. These documents often require careful drafting and          may need to adhere to specific legal standards.
+
+
+WINDOWS OBJECT;
+        *In the Windows operating system, various graphical user interface elements, such as windows, icons, buttons, and menus, are considered objects.
+        *A window is a fundamental object in the Windows OS. It represents a graphical area on the screen and can contain various user interface elements.
+        *Buttons, text boxes, checkboxes, and other UI elements within a window are considered control objects.
+        *In Windows programming, objects like handles, device contexts, and other resources are managed using the Windows API (Application Programming                Interface).
+        *In object-oriented programming (OOP), a "Windows object" might refer to an instance of a class related to managing windows in a graphical user          interface.
+        * Objects in OOP have properties (attributes) and methods (functions) that define their behavior and characteristics.
+        *A window object might have properties like size, position, and methods like open, close, resize, etc.
+        *OOP principles like encapsulation and abstraction are often applied when dealing with objects, helping to organize and manage the complexity of          software systems.
