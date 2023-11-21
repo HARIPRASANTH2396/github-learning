@@ -1,4 +1,4 @@
-DIFFRENCE BETWEEN DOCUMENT AND 
+DIFFRENCE BETWEEN DOCUMENT AND WINDOWS OBJECT
 
 DOCUMENT;
         *A document is a recorded information or representation, usually in the form of written or printed material.
